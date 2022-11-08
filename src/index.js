@@ -23,7 +23,10 @@ import ReactDOM from 'react-dom/client';
 //import App from './project_useContext/App';
 
 // useMemo
-import App from './project_useMemo/App';
+//import App from './project_useMemo/App';
+
+// useCallback
+import App from './project_useCallback/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
