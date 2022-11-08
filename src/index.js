@@ -11,7 +11,10 @@ import ReactDOM from 'react-dom/client';
 //import App from './project_useEffect/App';
 
 // useRef
-import App from './project_useRef/App';
+// import App from './project_useRef/App';
+
+// useLayoutEffect
+import App from './project_useLayoutEffect/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
