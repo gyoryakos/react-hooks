@@ -17,7 +17,10 @@ import ReactDOM from 'react-dom/client';
 //import App from './project_useLayoutEffect/App';
 
 // useImperativeHandle
-import App from './project_useImperativeHandle/App';
+//import App from './project_useImperativeHandle/App';
+
+// useContext
+import App from './project_useContext/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
