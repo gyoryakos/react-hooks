@@ -8,7 +8,10 @@ import ReactDOM from 'react-dom/client';
 //import App from './project_useReducer/App';
 
 // useEffect
-import App from './project_useEffect/App';
+//import App from './project_useEffect/App';
+
+// useRef
+import App from './project_useRef/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
